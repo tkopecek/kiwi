@@ -52,3 +52,6 @@ ghp-import
 
 # for helper tools
 python-dateutil
+
+# for functional testing
+openqa-client
